@@ -1,0 +1,9 @@
+{
+        "name": "flannel",
+        "type": "flannel",
+        "delegate": {
+            "bridge": "docker0",
+            "mtu": 1400
+        }
+}
+
